@@ -1,0 +1,25 @@
+1. Map & get values for paramaters mentioned below in "Main File" using "centre master" & "Price List" files;
+
+-Department
+-State
+-City
+-Locality
+-Branch
+
+Also Note: Kindly Replace Null values with string as "Others" - For the values where we don't have mapping present
+
+
+2. In Main file Perform below operations on "pname" parameter
+
+-Remove Leading & Trailing Space
+-Lower Case Naming
+-Create Email ID's
+
+3. Using Pivot Table Identify top 10 Item name repeated across whole dateset
+
+4. Using Pivot Table Identify is there any relation between "itemid" & "itemname"
+
+5. File "Vlookup and IF function"
+
+-Fill "Fees" parameter in Students file using "fees" sheet mapping - Vlookup
+- Use IF function to fill up grades in Testscores Sheet
